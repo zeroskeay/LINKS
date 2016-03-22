@@ -14,6 +14,7 @@
 
 ### 最佳工具(tools)
 * [网桥代理大师](http://www.netsdk.net/)
+* [HEXO-博客模板](https://hexo.io/zh-cn/)
 
 ### 工作学习
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
