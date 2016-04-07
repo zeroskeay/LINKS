@@ -16,6 +16,7 @@
 * [网桥代理大师](http://www.netsdk.net/)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
 * [lantern-翻墙](https://github.com/getlantern/lantern)
+* [google-插件](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 
 ### 工作学习
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
