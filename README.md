@@ -11,6 +11,7 @@
 * [JS函数式编程](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 * [大前端的瑞士军刀](http://www.fefork.com/fetool/)
 * [awesomes(国人维护的前端资源)](https://www.awesomes.cn/)
+* [React中文索引](http://nav.react-china.org/)
 
 ### 最佳工具(tools)
 * [网桥代理大师](http://www.netsdk.net/)
