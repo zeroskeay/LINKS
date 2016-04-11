@@ -14,10 +14,11 @@
 * [React中文索引](http://nav.react-china.org/)
 
 ### 最佳工具(tools)
-* [网桥代理大师](http://www.netsdk.net/)
+* [*网桥代理大师](http://www.netsdk.net/)
+* [*lantern-翻墙](https://github.com/getlantern/lantern)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
-* [lantern-翻墙](https://github.com/getlantern/lantern)
-* [google-插件](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
+* [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
+* [编辑器统一配置](editeorconfig.org)
 
 ### 工作学习
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
