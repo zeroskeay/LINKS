@@ -18,8 +18,12 @@
 * [编辑器统一配置](editeorconfig.org)
 
 ### 翻墙工具
-* [赛风](https://www.saifeng.org/)
+* [*赛风](https://www.saifeng.org/)
 * [*lantern-翻墙](https://github.com/getlantern/lantern)
+
+### SUBLIME编辑器
+* [如何优雅的使用sublime](http://www.jianshu.com/p/3cb5c6f2421c)
+* [最好的功能、插件和设置](http://www.css88.com/archives/5858)
 
 ### 工作学习
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
