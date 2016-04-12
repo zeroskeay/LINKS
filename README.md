@@ -13,10 +13,13 @@
 * [css参考手册](http://css.doyoe.com/)
 
 ### 最佳工具(tools)
-* [*lantern-翻墙](https://github.com/getlantern/lantern)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
 * [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 * [编辑器统一配置](editeorconfig.org)
+
+### 翻墙工具
+* [赛风](https://www.saifeng.org/)
+* [*lantern-翻墙](https://github.com/getlantern/lantern)
 
 ### 工作学习
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
