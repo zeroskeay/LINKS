@@ -30,3 +30,6 @@
 * [跳槽准备](http://www.cnblogs.com/jikey/p/5201185.html)
 * [前端面试](https://mdluo.github.io/blog/about-front-end-interview/)
 * [sass中国](http://www.sass.hk/)
+
+### 经验之谈
+* [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
