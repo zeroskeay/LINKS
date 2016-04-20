@@ -30,6 +30,7 @@
 * [跳槽准备](http://www.cnblogs.com/jikey/p/5201185.html)
 * [前端面试](https://mdluo.github.io/blog/about-front-end-interview/)
 * [sass中国](http://www.sass.hk/)
+* [react.js 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 * [*汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)
 
 ### 经验之谈
