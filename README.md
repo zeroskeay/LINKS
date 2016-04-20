@@ -33,3 +33,6 @@
 
 ### 经验之谈
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
+
+### 趋势指路
+* [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
