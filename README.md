@@ -40,3 +40,4 @@
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
+* [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
