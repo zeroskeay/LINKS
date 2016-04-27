@@ -5,16 +5,13 @@
 ## 精华巴拉巴拉中........
 
 ### WEB前端资源
-* [稀土掘金](http://gold.xitu.io/#/)
-* [JS函数式编程](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 * [大前端的瑞士军刀](http://www.fefork.com/fetool/)
 * [awesomes(国人维护的前端资源)](https://www.awesomes.cn/)
-* [React中文索引](http://nav.react-china.org/)
+* [稀土掘金](http://gold.xitu.io/#/)
 * [css参考手册](http://css.doyoe.com/)
 
 ### 最佳工具(tools)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
-* [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 * [编辑器统一配置](editeorconfig.org)
 
 ### 翻墙工具
@@ -30,14 +27,19 @@
 * [MarkDown编辑阅读器](https://www.zybuluo.com/mdeditor)
 * [跳槽准备](http://www.cnblogs.com/jikey/p/5201185.html)
 * [前端面试](https://mdluo.github.io/blog/about-front-end-interview/)
-* [sass中国](http://www.sass.hk/)
-* [react.js 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 * [*汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)
 
 ### 经验之谈
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
 * [H5页面适配技巧](http://www.25xt.com/html5css3/10524.html)
+* [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
+
+### React相关
+* [React中文索引](http://nav.react-china.org/)
+* [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
+* [react.js 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
-* [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
+* [JS函数式编程](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+* [sass中国](http://www.sass.hk/)
