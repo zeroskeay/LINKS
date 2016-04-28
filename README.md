@@ -39,6 +39,7 @@
 * [React中文索引](http://nav.react-china.org/)
 * [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
 * [react.js 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
+* [那些 React 没告诉你但很重要的事](https://segmentfault.com/a/1190000005013207)
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
