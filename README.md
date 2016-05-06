@@ -44,5 +44,4 @@
 * [编辑器统一配置](editeorconfig.org)
 
 ### 翻墙工具
-* [*赛风](https://www.saifeng.org/)
-* [*lantern-翻墙](https://github.com/getlantern/lantern)
+* [lantern-翻墙](https://github.com/getlantern/lantern)
