@@ -10,6 +10,7 @@
 * [awesomes(国人维护的前端资源)](https://www.awesomes.cn/)
 * [稀土掘金](http://gold.xitu.io/#/)
 * [css参考手册](http://css.doyoe.com/)
+* [Github资源收集](https://segmentfault.com/a/1190000003510001?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 
 ### React相关
 * [React中文索引](http://nav.react-china.org/)
