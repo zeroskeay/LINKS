@@ -50,3 +50,6 @@
 
 ### 尝鲜神器
 * [liveStyle](http://livestyle.io/)
+
+### NodeJs
+* [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
