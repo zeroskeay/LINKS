@@ -19,6 +19,7 @@
 * [react.js 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 * [那些 React 没告诉你但很重要的事](https://segmentfault.com/a/1190000005013207)
 * [手把手教你基于ES6架构自己的React Boilerplate项目](http://jiji262.github.io/2016/04/29/create-your-own-react-boilerplate/)
+* [LeanReact精益 React 学习指南](https://zhuanlan.zhihu.com/leanreact)
 
 ### SUBLIME编辑器
 * [如何优雅的使用sublime](http://www.jianshu.com/p/3cb5c6f2421c)
