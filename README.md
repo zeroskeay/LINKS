@@ -36,6 +36,7 @@
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
 * [H5页面适配技巧](http://www.25xt.com/html5css3/10524.html)
 * [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
+* [CSS 布局:40个教程、技巧、例子和最佳实践](http://coolshell.cn/articles/6840.html)
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
