@@ -31,6 +31,7 @@
 * [跳槽准备](http://www.cnblogs.com/jikey/p/5201185.html)
 * [前端面试](https://mdluo.github.io/blog/about-front-end-interview/)
 * [*汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)
+* [*es6扫盲](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
 
 ### 经验之谈
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
