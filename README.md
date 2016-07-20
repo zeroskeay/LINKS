@@ -13,6 +13,9 @@
 * [Github资源收集](https://segmentfault.com/a/1190000003510001?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [最全前端资源](https://github.com/nicejade/Front-end-tutorial)
 
+### 前端规范
+* [Web前端开发规范文档](https://github.com/kahn1990/kahn1990.github.io/wiki/web_develop_standard)
+
 ### React相关
 * [React中文索引](http://nav.react-china.org/)
 * [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
