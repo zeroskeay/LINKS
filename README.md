@@ -42,6 +42,7 @@
 * [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 * [CSS 布局:40个教程、技巧、例子和最佳实践](http://coolshell.cn/articles/6840.html)
 * [Chrome DevTools](http://www.jianshu.com/p/504bde348956)
+* [如何发现优秀的开源项目](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
