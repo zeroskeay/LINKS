@@ -62,3 +62,6 @@
 
 ### NodeJs
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+
+### 私人领域
+* [禅师经典](http://blog.sina.com.cn/chzhshch)
