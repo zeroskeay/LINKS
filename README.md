@@ -55,6 +55,7 @@
 
 ### 翻墙工具
 * [lantern-翻墙](https://github.com/getlantern/lantern)
+* [翻墙中心](https://cc.greatfire.org/zh)
 
 ### 尝鲜神器
 * [liveStyle](http://livestyle.io/)
