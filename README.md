@@ -60,6 +60,9 @@
 ### 尝鲜神器
 * [liveStyle](http://livestyle.io/)
 
+### 函数式编程
+* [javascript函数式编程](https://zhuanlan.zhihu.com/p/21714695)
+
 ### NodeJs
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 
