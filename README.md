@@ -48,6 +48,7 @@
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
 * [JS函数式编程](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 * [sass中国](http://www.sass.hk/)
+* [是时候再提web标准](http://div.io/topic/1767)
 
 ### 最佳工具(tools)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
