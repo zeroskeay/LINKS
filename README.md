@@ -67,6 +67,8 @@
 
 ### 函数式编程
 * [javascript函数式编程](https://zhuanlan.zhihu.com/p/21714695)
+### 框架
+* [layui国产前端UI框架](http://www.layui.com/)
 
 ### NodeJs
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
