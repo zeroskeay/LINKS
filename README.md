@@ -35,6 +35,7 @@
 * [6周学习计划，攻克JavaScript难关(React/Redux/ES6 etc.)](https://zhuanlan.zhihu.com/p/23412169)
 * [*汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)
 * [*es6扫盲](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
+* [前端书籍资料PDF](http://www.36zhen.com/t?id=3448)
 
 ### 经验之谈
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
