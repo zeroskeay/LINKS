@@ -40,6 +40,7 @@
 ### 经验之谈
 * [移动h5前端性能优化指南](http://www.nnbbxx.net/post-2608.html)
 * [H5页面适配技巧](http://www.25xt.com/html5css3/10524.html)
+* [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
 * [google-插件推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
 * [CSS 布局:40个教程、技巧、例子和最佳实践](http://coolshell.cn/articles/6840.html)
 * [Chrome DevTools](http://www.jianshu.com/p/504bde348956)
@@ -55,6 +56,7 @@
 ### 移动端参考
 * [sandal](https://github.com/marvin1023/sandal)
 * [sheral](https://github.com/imweb/sheral)
+* [axios全攻略](https://ykloveyxk.github.io/2017/02/25/axios%E5%85%A8%E6%94%BB%E7%95%A5/)
 
 ### 最佳工具(tools)
 * [HEXO-博客模板](https://hexo.io/zh-cn/)
