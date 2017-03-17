@@ -52,6 +52,7 @@
 * [JS函数式编程](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 * [sass中国](http://www.sass.hk/)
 * [是时候再提web标准](http://div.io/topic/1767)
+* [2017年前端开发工具趋势](http://www.css88.com/archives/7175)
 
 ### 移动端参考
 * [sandal](https://github.com/marvin1023/sandal)
