@@ -46,6 +46,7 @@
 * [Chrome DevTools](http://www.jianshu.com/p/504bde348956)
 * [如何发现优秀的开源项目](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
 * [移动端meta](http://www.cnblogs.com/lpt1229/p/5628631.html)
+* [工作中经常用到 github 上优秀、实用、轻量级、无依赖的插件和库](https://github.com/jawil/blog/issues/10)
 
 ### 趋势指路
 * [Javascript 2016年的趋势和生态发展](https://github.com/gaohailang/blog/issues/12)
